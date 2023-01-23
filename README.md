@@ -1,4 +1,4 @@
-# Framework Boilerplate
+# Framework Boilerplate - only scss
 ## by Jari van Kaam
 
 this project is made to simplify and speed up the process of creating a `new project`. It is very loosely based on a framework I use in my internship. It is not meant to be used as a framework, but as a starting point for your `own project`. 
