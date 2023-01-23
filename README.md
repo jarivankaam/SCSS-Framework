@@ -1,4 +1,4 @@
-# Framework Boilerplate
+# Framework Boilerplate - only scss
 ## by Jari van Kaam
 
 this project is made to simplify and speed up the process of creating a `new project`. It is very loosely based on a framework I use in my internship. It is not meant to be used as a framework, but as a starting point for your `own project`. 
@@ -9,47 +9,6 @@ this project is made to simplify and speed up the process of creating a `new pro
  - ordend file structure.
  - laravel like naming conventions in folder names.
  ## file structure
-
-```
-project
-│   
-│   
-│
-└─── private
-|   |
-|   └─── scss
-|   |     |
-|   |     └─── base
-|   |     |
-|   |     └─── template-parts
-|   |     |
-|   |     └─── style.scss
-|   |
-│   │   
-│   │
-│   └─── TS
-│         └───  index.ts
-│       
-│   
-└─── public
-|    └─── views
-|    │   │
-|    |   └─── parts
-|    |   |     └─── section-test.php
-|    |   |     |
-|    |   |     └─── section-1.php
-|    |   |
-|    |   |
-|    |   └─── requires
-|    |   |      └─── head.php
-|    |   |      |
-|    |   |      └─── header.php
-|   
-└─── .gitignore
-└─── .htacces
-└─── 404.php
-└─── index.php - containes routers
-```
 
 ## Installation
 - clone the repository
