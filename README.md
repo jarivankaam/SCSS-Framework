@@ -8,7 +8,7 @@ this project is made to simplify and speed up the process of creating a `new pro
  - php file router
  - ordend file structure.
  - laravel like naming conventions in folder names.
- ## file structure
+
 
 ## Installation
 - clone the repository
